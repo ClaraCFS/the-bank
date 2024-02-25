@@ -10,4 +10,4 @@ As linguagens usadas p/ a programação desse site foram:
 Aprendi a usar melhor a tag "header" p/ faer cabeçalhos e também a estrutura usual de um cabeçalho HTML. Tabém tive fixação de conteúdo css no que di respeito aos flexbox.
 
 ### Imagem do projeto
-![Gif da interface do projeto](./the-bank.gif)
+![Gif da interface do projeto](images/the-bank.gif)
